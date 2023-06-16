@@ -1,3 +1,5 @@
+Let's begin!
+
 2 ¼ cups all-purpose flour
 
 ½ teaspoon baking soda
@@ -15,3 +17,5 @@
 2 large eggs
 
 12 ounces semisweet chocolate chips (2 cups)
+
+Enjoy my recipe!
