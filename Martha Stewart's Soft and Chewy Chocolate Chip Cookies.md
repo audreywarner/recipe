@@ -8,3 +8,14 @@ last line changed locally
 # This is a level 1 header
 
 ## This is a level 3 header
+
+The recipe has 9 steps:
+1. Preheat oven and prep baking sheets
+2. Combine flour with baking soda
+3. Beat butter and sugars
+4. Add salt, vanilla, and eggs
+5. Add flour mixture gradually
+6. Mix in chips
+7. Portion cookies onto baking sheets
+8. Bake cookies
+9. Cool and store
