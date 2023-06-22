@@ -19,3 +19,5 @@ The recipe has 9 steps:
 7. Portion cookies onto baking sheets
 8. Bake cookies
 9. Cool and store
+
+![recipe.jpg]
