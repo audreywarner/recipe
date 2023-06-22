@@ -20,4 +20,4 @@ The recipe has 9 steps:
 8. Bake cookies
 9. Cool and store
 
-![Chocolate Chip Cookies](Desktop/recipe/recipe.jpg)
+![Chocolate Chip Cookies](recipe/recipe.jpg)
