@@ -41,7 +41,7 @@ Here is another attempt at an ordered list:
 
 # Trying again! 
 ## Level 3 header!
-Here is my 3rd attempt at an ordered list:
+Here is my **3rd** attempt at an *ordered* list:
 1. Preheat oven and prep baking sheets
 2. Combine flour with baking soda
 3. Beat butter and sugars
