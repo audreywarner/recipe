@@ -35,3 +35,5 @@ Here is another attempt at an ordered list:
 7. Portion cookies onto baking sheets
 8. Bake cookies
 9. Cool and store
+
+![Chocolate Chip Cookies!](/Desktop/recipe/recipe.jpg "Chocolate Chip Cookies")
