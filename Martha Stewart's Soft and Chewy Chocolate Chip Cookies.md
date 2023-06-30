@@ -52,3 +52,5 @@ Here is my **3rd** attempt at an *ordered* list:
 8. Bake cookies
 9. Cool and store
 
+![Chocolate Chip Cookies!](/Desktop/recipe/recipe.jpg "Chocolate Chip Cookies")
+
