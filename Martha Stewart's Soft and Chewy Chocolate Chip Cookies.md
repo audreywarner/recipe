@@ -7,3 +7,13 @@ This is Martha Stewart's most popular cookie recipe from her website. The recipe
 last line changed locally
 ### This is a REMOTE change :0
 
+These are the recipe steps:
+1. Preheat oven
+2. Combine flour and baking soda
+3. Beat butter and sugars
+4. Add salt, vanilla and eggs
+5. Add flour mixture gradually
+6. Mix in chips
+7. Portion cookies onto baking sheets
+8. Bake cookies
+9. Cool and store
